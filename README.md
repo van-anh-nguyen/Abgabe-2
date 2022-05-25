@@ -13,3 +13,7 @@ In order to generate a heatmap for a video taken by a phone camera, there are tw
 - Output Video: [kitchen-output.mp4](https://github.com/van-anh-nguyen/Abgabe-2/blob/main/data/kitchen-output.mp4)
 - Input frames of video: [kitchen](https://github.com/van-anh-nguyen/Abgabe-2/tree/main/data/kitchen)
 - Output frames of video: [kitchen-output](https://github.com/van-anh-nguyen/Abgabe-2/tree/main/data/kitchen-output)
+
+### Source
+- Anirudh, Koul, Ganju, Siddha and Kasam, Meher, Practical Deep Learning for Cloud, Mobile & Edge, Real-World AL & Computer Vision Projects Using Python & TensorFlow, O'Reilly Media, Inc., ISBN: 9781492034865, October 2019
+- Github: [Practical Deep Learning, Chapter 2](https://github.com/PracticalDL/Practical-Deep-Learning-Book/tree/master/code/chapter-2#readme)
