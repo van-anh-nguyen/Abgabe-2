@@ -19,4 +19,4 @@ In order to generate a heatmap for a video taken by a phone camera, there are tw
 
 ### Source
 - Anirudh, Koul, Ganju, Siddha and Kasam, Meher, Practical Deep Learning for Cloud, Mobile & Edge, Real-World AL & Computer Vision Projects Using Python & TensorFlow, O'Reilly Media, Inc., ISBN: 9781492034865, October 2019
-- Github: [Practical Deep Learning, Chapter 2, What Does My Neural Network Think?]([https://github.com/PracticalDL/Practical-Deep-Learning-Book/tree/master/code/chapter-2#readme](https://github.com/practicaldl/Practical-Deep-Learning-Book/blob/master/code/chapter-2/2-what-does-my-neural-network-think.ipynb))
+- Github: [Practical Deep Learning, Chapter 2, What Does My Neural Network Think?](https://github.com/practicaldl/Practical-Deep-Learning-Book/blob/master/code/chapter-2/2-what-does-my-neural-network-think.ipynb)
