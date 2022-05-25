@@ -9,7 +9,7 @@ In order to generate a heatmap for a video taken by a phone camera, there are tw
 5. Lastly, compile a video out of the processed frames.
 
 ### Results
-- Input Video: fgfd
-- Output Video:
+- Input Video: [IMG_7576.MOV](https://github.com/van-anh-nguyen/Abgabe-2/blob/main/data/IMG_7576.MOV)
+- Output Video: [IMG_7576.MOV](https://github.com/van-anh-nguyen/Abgabe-2/blob/main/data/kitchen-output.mp4)
 - Input frames of video: [kitchen](https://github.com/van-anh-nguyen/Abgabe-2/tree/main/data/kitchen)
 - Output frames of video: [kitchen-output](https://github.com/van-anh-nguyen/Abgabe-2/tree/main/data/kitchen-output)
