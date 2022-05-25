@@ -1,5 +1,8 @@
 # Assignment: What Does My Neural Network Think?
-Make a short video with your phone and generate a heatmap demonstrating why the neural network makes a particular prediction. The objective of the assignment is to understand the reason behind a prediction a neural network makes in object classification.
+Make a short video with your phone and generate a heatmap demonstrating why the neural network makes a particular prediction. 
+
+### Objective
+To understand the reason behind a prediction a neural network makes in object classification.
 ### Protocol
 In order to generate a heatmap for a video taken by a phone camera, there are two steps needed:
 1. Data collecting: a video of random kitchen objects is taken.
