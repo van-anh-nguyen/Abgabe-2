@@ -6,8 +6,8 @@ To understand the reason behind a prediction a neural network makes in object cl
 ### Description
 In order to generate a heatmap for a video taken by a phone camera, there are two steps needed:
 1. Data collecting: a video of random kitchen objects
-2. Create a folder in the directory path with ```!mkdir kitchen```
-3. ```ffmpeg``` is called to split the input video into image frames in the folder 'kitchen'.
+2. Create a folder called "kitchen" in the directory path with ```!mkdir kitchen```
+3. ```ffmpeg``` is called to split the input video into image frames and save them in the folder 'kitchen'.
 4. ```visualization.py``` is run to convert the plit image frames into heatmap images. [visualization.py](https://github.com/practicaldl/Practical-Deep-Learning-Book/blob/master/code/chapter-2/visualization.py) is a script essentially for video processing provided by [Practical Deep Learning](https://github.com/PracticalDL/Practical-Deep-Learning-Book/tree/master/code/chapter-2#readme) that produces the heatmap for images as well as videos. The ```vggg16 model``` is trained on ImageNet to make predictions.
 5. Lastly, compile a video out of the processed frames. Output should be the original video but in heatmap form.
 
