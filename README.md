@@ -3,7 +3,7 @@ Make a short video with your phone and generate a heatmap demonstrating why the 
 
 ### Objective
 To understand the reason behind a prediction a neural network makes in object classification.
-### Protocol
+### Description
 In order to generate a heatmap for a video taken by a phone camera, there are two steps needed:
 1. Data collecting: a video of random kitchen objects
 2. Create a folder in the directory path with ```!mkdir kitchen```
